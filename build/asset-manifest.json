@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Product_Picker_React/static/css/main.e2993634.css",
+    "main.js": "/Product_Picker_React/static/js/main.72893fad.js",
+    "static/media/logo.png": "/Product_Picker_React/static/media/logo.585f9706e7f69438ea9e.png",
+    "index.html": "/Product_Picker_React/index.html",
+    "main.e2993634.css.map": "/Product_Picker_React/static/css/main.e2993634.css.map",
+    "main.72893fad.js.map": "/Product_Picker_React/static/js/main.72893fad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2993634.css",
+    "static/js/main.72893fad.js"
+  ]
+}
